@@ -1,3 +1,3 @@
-## oi, sou a Ana, sou estudante de engenharia de software.
+## oi, eu sou a Ana.
 
 - Eu estudei recentemente Python e C, e agora estou começando a estudar Java.
